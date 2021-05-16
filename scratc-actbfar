@@ -1,0 +1,46 @@
+Cash	100k
+	Share Capital 100k
+
+Treasury Shares 200k
+	Cash			200k
+
+
+Share Capital
+(Treasury Shares) # treasury shares don't appear in the contributed capital though?... So what does it do? Does it even reduce the corporaotion's "Share Capital"? 
+= 100k - 200k = -100k 
+
+---
+
+# Main Q: wtf are treasury shares?
+
+---
+# no penalty for James? 
+# intuition delinquent subscriptions and no bidder (P.S. how come "James" doesn't get anything in this case?) 
+
+# so apparently accumulated profits don't contain share capital, share premium, and treasury share 
+
+
+# where do treasury shares fit? what do they deduct? 
+	- A: so basically treasury shares doesn't reduce the Share Capital but only reduces the total "shareholders' equity" of the company? 
+
+# why is retained earnings debited instead of cash when distributing stock dividends?
+# why the fuck do we have to appropriate retainedEarnings/accumulatedProfits for tresury stocks? Why is it a legal requirement?
+# why do we debit accumulated profits - free when issuing stock dividends? (We don't appropriate in this case as opposed to the treasury shares where you appropriate retained earnings)
+
+
+# why are shares issued below par illegal?
+# why can preference shares only be issued with a par value? 
+# share dividends distributable and why it's included in the computatoin of contributed capital (find the intuition). 
+
+
+# Intuition for why subscribtions receivable is used in the computation of contributed capital: because contributed capital has to be they already have it and it apparently doesn't follow accrual accounting, so therefore since the corporation hasn't yet received the cash/assets from the subscriber then we don't count it and therefore we reduce subscriptions receivable in computing for contributed capital. (# confirm if this is correct.) (Yeah, Prof. Trinidad said that its because contributed capital is the paid in capital and therefore subscriptions receivable hasn't been received it).
+# thought: so legal capital doesn't have subscriptions receivable so therefore it follows accrual accounting? the fuck? why are they differnet? is it because the other is "contributed" capital and therefore it has to already have been "contributed"? 
+
+
+# wait, why does legal cpaital have share premium in the case of no-par value shares? 
+
+# is this right when computing legal capital?
+	# no par value but with stated value - include share premium
+	# no par value and without stated value - don't include share premiium (because it doens't exist in this cas.e)
+
+# why are corporations required to appropriate retained earnings for treasury share? 
